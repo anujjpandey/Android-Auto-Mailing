@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5d0f0b51b2ad966e8ca8e1d9204b7e2d400d099">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_25f4cf4c9295f96753b2a95f58ead850d4e22fcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-beta1_9dc8a509208753e94ea6987335edcbb833dcfa83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="96eb4008a1c291dd20d4e40cf23c9d16d8aa37bc">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34d9534b167917aecf77a7692065ac8d4c8046ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-beta1_4c2dd231320778533ce244988d7b3a2dd3533f88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-beta1_4ab37af0e461dcb9ef0cabb98a6545b967119c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-beta1_65938162d9e3778c7e13e09bd8dbcd5591fa1fda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Tools/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-beta1/support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-beta1_4e095e2cbd87751e52dd2c8e9db187964e3c1ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/Users/wildcoder/Support/MyApplication3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-beta1_26fa9a972399d36310fb1c29955ccb54790a7cb7/classes.dex" />
+    </item>
+
+</items>
